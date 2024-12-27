@@ -24,7 +24,7 @@
 You can install the package via composer:
 
 ```bash
-composer require skillcraft/hook-flow
+composer require skillcraft-io/hook-flow
 ```
 
 ## 🚀 Quick Start
